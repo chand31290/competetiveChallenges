@@ -1,2 +1,2 @@
 # competetiveChallenges
-Contains programming challenges solved from Kattis.com
+Contains programming challenges solved from leetCode.com
